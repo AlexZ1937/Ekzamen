@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ekzamen</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="add_note">Add Note</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save</string>
+    <string name="tittle">Tittle</string>
+</resources>
